@@ -4,8 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
+#include "ShaderBase.h"
 
-class FUE5_4_Shader_PluginModule : public IModuleInterface
+class UE5_4_SHADER_PLUGIN_API FUE5_4_Shader_PluginModule : public IModuleInterface
 {
 public:
 

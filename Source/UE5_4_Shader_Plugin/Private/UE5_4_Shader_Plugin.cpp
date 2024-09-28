@@ -3,8 +3,6 @@
 #include "UE5_4_Shader_Plugin.h"
 #include "Interfaces/IPluginManager.h"
 
-//#include "Modules/ModuleManager.h"
-
 #define LOCTEXT_NAMESPACE "FUE5_4_Shader_PluginModule"
 
 void FUE5_4_Shader_PluginModule::StartupModule()
